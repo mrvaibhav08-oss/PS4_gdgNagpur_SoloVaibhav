@@ -1,4 +1,4 @@
-# PS4_gdgNagpur_VaibhavUI
+# PS4_gdgNagpur_SoloVaibhav
 
 ## Project Overview
 This project addresses **Problem Statement 4: People's Priorities**. It is an AI-powered Smart Grievance Dashboard designed to help government officials visualize, categorize, and prioritize citizen feedback efficiently.
