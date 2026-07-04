@@ -4,7 +4,7 @@
 This project addresses **Problem Statement 4: People's Priorities**. It is an AI-powered Smart Grievance Dashboard designed to help government officials visualize, categorize, and prioritize citizen feedback efficiently.
 
 ## 🚀 Live Demo
-**Access the live project here:** [https://github.com/mr.vaibhav08-oss/PS4_gdgNagpur_VaibhavSolo]
+**Access the live project here:** [[https://github.com/mr.vaibhav08-oss/PS4gdgNagpurSoloVaibhav](https://github.com/mr.vaibhav08-oss/PS4_gdgNagpur_SoloVaibhav)]
 
 ## Features
 *   **AI Smart Tagging:** Automatically categorizes complaints (e.g., Water, Electricity, Infrastructure).
