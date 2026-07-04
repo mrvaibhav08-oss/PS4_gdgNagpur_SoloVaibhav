@@ -1,2 +1,2 @@
 # PS4_gdgNagpur_SoloVaibhav
-An AI-powered Smart Grievance Dashboard designed to help government officials track, filter, and prioritize citizen feedback. Built with a modern, fast, and premium dark-themed UI for seamless data visualization
+AnOur project tackles PS4 (People's Priorities) by providing a Smart Grievance Dashboard for government officials. It uses AI concepts to automatically categorize and prioritize citizen complaints (e.g., Water, Electricity, Roads) from raw feedback. The solution features a high-performance, minimal, and mobile-first dark-themed interface, allowing decision-makers to instantly visualize public sentiment and resolve urgent issues faster.
